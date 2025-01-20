@@ -1,4 +1,4 @@
-# Full-Stack-Network-Intrusion-Detection-System-Using-Machine-Learning
+# Full Stack Network Intrusion Detection System Using Machine Learning
 
 Full Stack Network Intrusion Detection System Using Machine Learning
 
